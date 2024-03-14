@@ -1,6 +1,6 @@
 # SH4d SVD Analyzer
 
-An attempt to analyze the SH4D SVD format
+An attempt to analyze the Roland SH4D SVD format
 
 ## Initial setup
 
