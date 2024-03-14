@@ -22,3 +22,4 @@ Using a hex editor on a backup file, the following has already been found:
   - Instruments are 2048 bytes
 - Rhythm kits seem to start at byte 2956348
   - Rhythm kits are 3328 bytes
+    - It appears that 3328 is perfectly dividable by 26 (which is the number of instruments in a rhythm kit), which results to 128, which also makes sense. Could it be that each block of 128 bytes is an instrument in this kit?
