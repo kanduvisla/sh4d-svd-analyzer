@@ -1,4 +1,4 @@
-# sh4d-svd-analyzer
+# SH4d SVD Analyzer
 
 An attempt to analyze the SH4D SVD format
 
